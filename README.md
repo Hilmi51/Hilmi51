@@ -8,7 +8,7 @@ You can use the links to reach me:
 
   
 ## 🛠 Technologies and tools I use
-
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
@@ -18,7 +18,7 @@ You can use the links to reach me:
 <img src="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net&logoColor=white"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
-
+</p>
 
 ## 📝 IDE's I use
 <img src="https://img.shields.io/badge/Visual_Studio_2019-black?style=for-the-badge&logo=visual%20studio&logoColor=white"></img>
