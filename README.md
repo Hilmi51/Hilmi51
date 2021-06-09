@@ -4,7 +4,7 @@ I'm Hilmi Safak.
 You can use the links to reach me:
 
   <a href="https://www.linkedin.com/in/hilmi-%C5%9Fafak-40046a210/" target="_blank" rel="nofollow"><img alt="Hilmi linkedin adres" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hilmisafak1@gmail.com" target="_blank" rel="nofollow"><img alt="Hilmi email adres" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:hilmisafaak@gmail.com" target="_blank" rel="nofollow"><img alt="Hilmi email adres" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
   
 ## 🛠 Technologies I am working on
