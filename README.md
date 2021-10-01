@@ -29,6 +29,6 @@ You can use the links to reach me:
 <img src="https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipse&logoColor=white"></img>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hilmi51&show_icons=true&locale=en&layout=compact" alt="hilmi51" />
+  <img src="" />
 </p>
 
