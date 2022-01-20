@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
 
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaerdoan&hide=python&layout=compact&show_icons=true&theme=tokyonight">
