@@ -23,7 +23,5 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaerdoan&hide=python&layout=compact&show_icons=true&theme=tokyonight">
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaerdoan&hide=python&layout=compact&show_icons=true&theme=tokyonight">
 </p>
