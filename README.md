@@ -1,4 +1,4 @@
-# [Hilmi Şafak]
+# Hilmi Şafak
 # Hello, I'm Hilmi Safak 👋
 
 ## Contact with me via these platforms :  
