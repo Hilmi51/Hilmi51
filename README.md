@@ -1,4 +1,4 @@
-# Hilmi Şafak
+# [Hilmi Şafak](https://www.linkedin.com/in/hilmi-%C5%9Fafak-40046a210/)
 # Hello, I'm Hilmi Safak 👋
 
 ## Contact with me via these platforms :  
