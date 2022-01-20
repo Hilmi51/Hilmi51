@@ -1,5 +1,4 @@
-# [Hilmi Şafak](https://www.linkedin.com/in/hilmi-%C5%9Fafak-40046a210/)
-# Hello, I'm Hilmi Safak 👋
+# Hello, I'm [Hilmi Şafak](https://www.linkedin.com/in/hilmi-%C5%9Fafak-40046a210/) 👋
 
 ## Contact with me via these platforms :  
 <a href="https://www.linkedin.com/in/hilmi-%C5%9Fafak-40046a210/" target="_blank" rel="nofollow"><img alt="Hilmi linkedin adres" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -28,5 +27,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaerdoan&hide=python&layout=compact&show_icons=true&theme=tokyonight">
   </p>
 </p>
-
-<img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=white%22%3E"/>
